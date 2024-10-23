@@ -2,7 +2,7 @@
     "name": "STACS",
     "symbol": "STACS",
     "description": "Only Possible On Solana",
-    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+    "image": "https://raw.githubusercontent.com/yishixing/solana-developers/refs/heads/main/metadata/stacs/stacs.png",
     "attributes": [
         {
             "trait_type": "Item",
